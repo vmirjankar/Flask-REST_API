@@ -16,7 +16,7 @@ main.py:<br>
 test.py:<br>
 •	Used for testing the API<br>
 
-IMAGES:<br>
+IMAGES:<br/>
 1. Running two terminals (one for main.py and one for test.py). In this image, it shows how I am using PUT method to put data into the database but the data with the same ID already exists. After that, I am using GET method to get data for a specified video ID but the video ID does not exist: <br>
 ![image](https://github.com/vmirjankar/Flask-REST_API/assets/111427005/7b5cd067-2a9e-49fa-bb1a-9c87e1c93119) <br>
 2. In this image, I am using the UPDATE method to update some value in the database:<br>
