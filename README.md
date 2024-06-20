@@ -12,7 +12,7 @@ main.py:<br>
 •	Defined a class for the Database Model.
 •	Defined two request parsers to specify the arguments for PUT and PATCH requests.
 •	Defined a dictionary (resource_fields) which specfies that the instances should be serialized.
-•	Defined a class which contains all the functions for the resources i.e. GET, PUT, PATCH, DELETE
+•	Defined a class which contains all the functions for the resources i.e. GET, PUT, PATCH, DELETE<br>
 test.py<br>
 •	Used for testing the API<br>
 
