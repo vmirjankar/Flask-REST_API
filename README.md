@@ -6,7 +6,7 @@ PROJECT: BUILDING A REST API <br/>
 ABSTRACT: <br/>
 This project aims to build a mock Youtube API by building a RESTful API using Flask and Python to create, retrieve, update, and delete video records in a SQLite database. It uses SQLAlchemy for database interactions and Flask-RESTful for creating the API endpoints. </br>
 
-BRIEF PROCESS DESCRIPTION:<br/>
+BRIEF CODE DESCRIPTION:<br/>
 main.py:<br>
 •	Imported all the necessary modules.<br>
 •	Defined a class for the Database Model.<br>
